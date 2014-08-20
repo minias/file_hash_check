@@ -1,8 +1,9 @@
 = file_hash_check
 
-The file_hash_check is Created By Lazarus 1.2.4.
+The file_hash_check is Created By Lazarus 1.2.4 (http://www.lazarus.freepascal.org/ ).
 
 == Requirement
+FPC 2.4.2 Higher or Later versions (http://sourceforge.net/projects/freepascal/ )
 dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/ )
 
 == The Function
