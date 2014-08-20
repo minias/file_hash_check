@@ -21,7 +21,7 @@ Author         :: minias Lee <gnuhacker@gmail.com>
 
 = License
 
-http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/License_icon-mit-2.svg/128px-License_icon-mit-2.svg.png
+http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png
 
 file_hash_check is released under a MIT
-(http://creativecommons.org/licenses/by-nc-sa/3.0/ ) License.
+(http://opensource.org/licenses/MIT ) License.
