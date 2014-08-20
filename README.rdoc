@@ -20,9 +20,9 @@ dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/ )
 http://wiki.freepascal.org/images/9/94/file_checksum.png
  
 == Binary Download
-
-{file_checksum.zip}[https://www.facebook.com/download/785717268117888/file_checksum.zip]
-
+* {file_checksum.zip}[https://www.facebook.com/download/785717268117888/file_checksum.zip]
+- SHA256 : 9bfbcd5117aede07327e97ec7b55dd78af7e0822af6a7b370498c93f9408159b
+- Win32 / 325Kb
 == stuff
 
 Author         :: {minias Lee}[http://wiki.freepascal.org/User_talk:Minias]
