@@ -17,7 +17,8 @@ dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/ )
 
 == Running the file_hash_check
 
-https://scontent-a.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10612618_816398068412133_7135154798923706726_n.jpg?oh=c44ad455ffa62fb0b22415119e227e5b&oe=5478185D 
+[![Running the file_hash_check](https://scontent-a.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10612618_816398068412133_7135154798923706726_n.jpg?oh=c44ad455ffa62fb0b22415119e227e5b&oe=5478185D)](https://github.com/minias/file_hash_check/wiki)
+
 
 == Binary Download
 
