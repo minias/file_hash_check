@@ -3,7 +3,9 @@
 The file_hash_check is Created By Lazarus 1.2.4 (http://www.lazarus.freepascal.org/ ).
 
 == Requirement
-FPC 2.4.2 Higher or Later versions (http://sourceforge.net/projects/freepascal/ )
+
+FPC 2.4.x or later and Rake (any recent version) (http://sourceforge.net/projects/freepascal/ )
+
 dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/ )
 
 == The Function
@@ -13,14 +15,19 @@ dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/ )
  - sha256 hash print
  - VT (VirusTotal.com) Search using Browser
 
-=== Running the file_hash_check
+== Running the file_hash_check
+
+https://scontent-a.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10612618_816398068412133_7135154798923706726_n.jpg?oh=c44ad455ffa62fb0b22415119e227e5b&oe=5478185D 
+
+== Binary Download
+
+[file_checksum.zip|https://www.facebook.com/download/785717268117888/file_checksum.zip ] 
  
- 
-= stuff
+== stuff
 
 Author         :: minias Lee <gnuhacker@gmail.com>
 
-= License
+== License
 
 http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png
 
