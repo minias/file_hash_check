@@ -20,7 +20,7 @@ dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/ )
  
 == Binary Download
 
-* [file_checksum][file_checksum.zip]
+{file_checksum.zip}[https://www.facebook.com/download/785717268117888/file_checksum.zip]
 
 == stuff
 
@@ -32,7 +32,3 @@ http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png
 
 file_hash_check is released under a MIT
 (http://opensource.org/licenses/MIT ) License.
-
-
-
-[file_checksum.zip]: https://www.facebook.com/download/785717268117888/file_checksum.zip "file_checksum.zip"
