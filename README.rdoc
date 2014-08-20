@@ -8,7 +8,7 @@ FPC 2.4.x or later and Rake (any recent version) (http://sourceforge.net/project
 
 dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/ )
 
-== The Function
+== Features include
  - File Drop check
  - md5 hash print
  - sha1 hash print
