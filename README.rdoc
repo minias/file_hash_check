@@ -24,7 +24,7 @@ dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/ )
 
 == stuff
 
-Author         :: minias Lee <gnuhacker@gmail.com>
+Author         :: minias Lee[http://wiki.freepascal.org/User_talk:Minias]
 
 == License
 
