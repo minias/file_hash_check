@@ -1,0 +1,6 @@
+language: lazarus
+lazarus:
+  - "1.2.4"
+
+notifications:
+  slack: file_hash_check:EVFRbgstpK5gDMsJ4YXE
