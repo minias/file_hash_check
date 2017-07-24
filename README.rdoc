@@ -23,10 +23,6 @@ http://wiki.freepascal.org/images/9/94/file_checksum.png
 - {file_checksum.zip}[https://lookaside.fbsbx.com/file/file_checksum.zip?token=AWx_4knhxUMbilYo11kbu0xnEFF3pY4zJNc8OjGd06S89qIhCX0HSSoRCQKSTW9lbJi7DHH1Y4hPRDn8URAAKp8vUTaDkSXpkmzjSTSwIB87ZqkJET8vFQbWtr90KaBPscqPfBS3mMYvA54HZDoIk_nMQ4ID8REaHVJIuS0zTpqnsChbWxAO-y8u94vBV_rXm1o] [Win32 / 674Kb]
 SHA256 : 9bfbcd5117aede07327e97ec7b55dd78af7e0822af6a7b370498c93f9408159b
 
-== stuff
-
-Author         :: {minias Lee}[http://wiki.freepascal.org/User_talk:Minias]
-
 == License
 
 http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png
