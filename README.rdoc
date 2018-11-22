@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fminias%2Ffile_hash_check.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fminias%2Ffile_hash_check?ref=badge_shield)
+
 = file_hash_check
 
 The file_hash_check is Created By Lazarus 1.2.4 (http://www.lazarus.freepascal.org/ ).
@@ -29,3 +31,7 @@ http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png
 
 file_hash_check is released under a MIT
 (http://opensource.org/licenses/MIT ) License.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fminias%2Ffile_hash_check.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fminias%2Ffile_hash_check?ref=badge_large)
