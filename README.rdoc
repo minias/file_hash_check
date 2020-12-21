@@ -8,7 +8,8 @@ The file_hash_check is Created By Lazarus 1.2.4 (http://www.lazarus.freepascal.o
 
 FPC 2.4.x or later and Rake (any recent version) (http://sourceforge.net/projects/freepascal/ )
 
-~~dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/)~~
+--dcpcrypt-2.0.4.1 component (http://www.cityinthesky.co.uk/opensource/dcpcrypt/)--
+
 dcpcrypt-2.0.4.1 component (https://github.com/StephenGenusa/DCPCrypt)
 
 == Features include
