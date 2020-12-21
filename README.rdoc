@@ -10,6 +10,8 @@ FPC 2.4.x or later and Rake (any recent version) (http://sourceforge.net/project
 
 dcpcrypt-2.0.4.1 component (https://github.com/StephenGenusa/DCPCrypt)
 
+dcpcrypt-2.0.4.1 component download (https://sourceforge.net/projects/lazarus-ccr/files/DCPcrypt/DCPCrypt%202.0.4.1/)
+
 == Features include
  - File Drop check
  - md5 hash print
